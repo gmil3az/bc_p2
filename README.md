@@ -8,5 +8,5 @@
   "Yuikie"
 - Your ERC-721 Token Symbol  
   "YKE"
-- Your “Token Address” on the Rinkeby Network
+- Your “Token Address” on the Rinkeby Network  
   ""
