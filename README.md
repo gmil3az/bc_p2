@@ -1,3 +1,5 @@
+I did not include .secret file on the root of this project, because it should not be shared with others. Feel free to add your own wallet's Secret phrases as .secret file.
+
 - Specify the Truffle version and OpenZeppelin version used in the project  
   Truffle v5.1.7 (core: 5.1.7)  
   Solidity v0.5.12 (solc-js)  
