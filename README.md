@@ -9,4 +9,4 @@
 - Your ERC-721 Token Symbol  
   "YKE"
 - Your “Token Address” on the Rinkeby Network  
-  ""
+  "0x780073BDd7AcAFa558Ebf4636ad0438c06976a5a"
